@@ -10,7 +10,7 @@ To develop on the project, run:
 
 ```
 $ nix-shell
-$ make
+nix-shell$ make
 ```
 
 and repeat `make` each time to check the proofs.
