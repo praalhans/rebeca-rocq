@@ -1,4 +1,5 @@
 -Q theories Rebeca
 
+theories/Prelim.v
 theories/History.v
 src/Extraction.v
